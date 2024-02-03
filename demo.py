@@ -15,4 +15,4 @@ with sr.Microphone() as source:
     elif text=="open google":
         open("www.google.com")
     elif text=="open game":
-        open("https://leetcode.com/GUKKAN/")
+        open("https://leetcode.com/SNsnsiva/")
